@@ -1,0 +1,17 @@
+{
+  "name": "WhatsAppPush",
+  "version": "1.0.0",
+  "main": "handlers/template.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "aws-sdk": "^2.668.0",
+    "http-status": "^1.4.2",
+    "uuid": "^8.0.0"
+  }
+}
